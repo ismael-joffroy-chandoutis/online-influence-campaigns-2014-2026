@@ -59,7 +59,7 @@ Une règle vaut pour tout le rapport : un rapport qui attribue une opération ne
 
 ### Méthode et limites
 
-Le rapport s'appuie sur des sources publiques consultées jusqu'au 31 octobre 2026 : actes judiciaires, rapports d'agences (Viginum, BSI, MPF suédoise, OSCE/BIDDH), rapports de plateformes et de laboratoires d'IA (Meta, TikTok, Google, OpenAI, Anthropic), recherche académique et presse. Pour plusieurs événements de juillet à octobre 2026, seuls des extraits d'articles payants étaient accessibles ; ces cas sont signalés. L'article du *Monde* du 30 octobre 2026 est cité sans lien.
+Le rapport s'appuie sur des sources publiques consultées jusqu'au 31 octobre 2026 : actes judiciaires, rapports d'agences (Viginum, BSI, MPF suédoise, OSCE/BIDDH), rapports de plateformes et de laboratoires d'IA (Meta, TikTok, Google, OpenAI, Anthropic), recherche académique et presse. Pour plusieurs événements de juillet à octobre 2026, seuls des extraits d'articles payants étaient accessibles ; ces cas sont signalés. L'article du *Monde* du 30 octobre 2026 qui sert de point de départ est accessible aux abonnés ([Le Monde, 30/10/2026](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)).
 
 Le rapport est analytique et encyclopédique. Il décrit des tactiques au niveau où la presse, la recherche et les rapports publics les décrivent. Il ne contient aucune procédure reproductible pour monter un réseau, automatiser des comptes ou contourner une détection.
 
@@ -889,9 +889,9 @@ Format : date, lieu, événement (lignée ; statut). Lignées : essaim, ferme, a
 - 2026-10-28, Brésil et France. Janones : « ignorer, pas bloquer » (armée ; attesté). [source](https://x.com/AndreJanonesMG/status/2115462221673218058)
 - 2026-10-28, France. Libération et 20 Minutes décrivent le canal LFI (armée ; attesté). [source](https://www.liberation.fr/politique/elections/linspiration-bresilienne-des-insoumis-pour-contrer-lextreme-droite-sur-les-reseaux-sociaux-20261028_SKEUM2DYSZFS3FZF7SUO3WDOC4)
 - 2026-10-28, Espagne et Argentine. Groupes inspirés de l'« Exército do Lula » (armée ; attesté). [source](https://g1.globo.com/mundo/noticia/2026/10/28/inspirados-no-exercito-do-lula-de-janones-ativistas-criam-canais-na-franca-espanha-e-argentina.ghtml)
-- 2026-10-28, France. Marine Le Pen et Gérald Darmanin ouvrent des canaux WhatsApp (armée ; allégué, source unique). Source : *Le Monde*, 30/10/2026, sans lien.
+- 2026-10-28, France. Marine Le Pen et Gérald Darmanin ouvrent des canaux WhatsApp (armée ; allégué, source unique). [source](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)
 - 2026-10-29, France. Billet de Nikos Smyrnaios sur l'opuscule janoniste ; Olivier Tesquet interroge l'efficacité du blocage (analyse). [source](https://blogs.mediapart.fr/nikos-smyrnaios/blog/291026/de-quoi-le-janonisme-est-il-le-nom-la-recette-pour-faire-gagner-la-gauche)
-- 2026-10-30, France. *Le Monde* (Defer et Mohammedi) : canal LFI à 155 000 membres (armée ; attesté). Source : *Le Monde*, 30/10/2026, éditions papier et en ligne, sans lien.
+- 2026-10-30, France. *Le Monde* (Defer et Mohammedi) : canal LFI à 155 000 membres (armée ; attesté). [source](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)
 - 2026-10-30, France. L'Arcom renouvelle sa représentante au comité d'éthique de Viginum (plateforme ; attesté). [source](https://www.linforme.com/medias-culture/article/catherine-jentile-va-integrer-le-comite-d-ethique-et-scientifique-de-viginum_12935.html)
 
 ---
@@ -1499,6 +1499,6 @@ Toutes les sources citées, dans l'ordre de leur première apparition, regroupé
 
 ### Sans adresse en ligne retrouvée
 
-- Defer et Mohammedi, « Après le Brésil, la France ? Comment les insoumis tentent de s'inspirer du janonisme en ligne », *Le Monde*, 30/10/2026.
+- Defer et Mohammedi, « Après le Brésil, la France ? Comment les insoumis tentent de s'inspirer du janonisme en ligne », *Le Monde*, 30/10/2026. https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html
 - André Janones, *Janonismo cultural : o uso das redes sociais e a batalha pela democracia no Brasil*, Civilização Brasileira, 2023.
 - Green, Joshua, *Devil's Bargain*, Penguin, 2017.

@@ -59,7 +59,7 @@ One rule holds for the whole report: a report that attributes an operation does 
 
 ### Method and limits
 
-The report relies on public sources consulted up to October 31, 2026: court records, agency reports (Viginum, BSI, Sweden's MPF, OSCE/ODIHR), reports from platforms and AI labs (Meta, TikTok, Google, OpenAI, Anthropic), academic research and the press. For several events between July and October 2026, only excerpts of paywalled articles were accessible; these cases are flagged. The URL of the *Le Monde* article of October 30, 2026 could not be found.
+The report relies on public sources consulted up to October 31, 2026: court records, agency reports (Viginum, BSI, Sweden's MPF, OSCE/ODIHR), reports from platforms and AI labs (Meta, TikTok, Google, OpenAI, Anthropic), academic research and the press. For several events between July and October 2026, only excerpts of paywalled articles were accessible; these cases are flagged. The *Le Monde* article of October 30, 2026 that serves as the starting point is behind a paywall ([Le Monde, Oct. 30, 2026](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)).
 
 The report is analytical and encyclopedic. It describes tactics at the level at which the press, research and public reports describe them. It contains no reproducible procedure for building a network, automating accounts or evading detection.
 
@@ -889,9 +889,9 @@ Format: date, place, event (lineage; status). Lineages: swarm, farm, army, platf
 - 2026-10-28, Brazil and France. Janones: "ignore, don't block" (army; attested). [source](https://x.com/AndreJanonesMG/status/2115462221673218058)
 - 2026-10-28, France. Libération and 20 Minutes describe the LFI channel (army; attested). [source](https://www.liberation.fr/politique/elections/linspiration-bresilienne-des-insoumis-pour-contrer-lextreme-droite-sur-les-reseaux-sociaux-20261028_SKEUM2DYSZFS3FZF7SUO3WDOC4)
 - 2026-10-28, Spain and Argentina. Groups inspired by "Exército do Lula" (army; attested). [source](https://g1.globo.com/mundo/noticia/2026/10/28/inspirados-no-exercito-do-lula-de-janones-ativistas-criam-canais-na-franca-espanha-e-argentina.ghtml)
-- 2026-10-28, France. Marine Le Pen and Gérald Darmanin open WhatsApp channels (army; alleged, single source). Source: *Le Monde*, Oct. 30, 2026, URL not found.
+- 2026-10-28, France. Marine Le Pen and Gérald Darmanin open WhatsApp channels (army; alleged, single source). [source](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)
 - 2026-10-29, France. Nikos Smyrnaios's post on the Janonist booklet; Olivier Tesquet questions the effectiveness of blocking (analysis). [source](https://blogs.mediapart.fr/nikos-smyrnaios/blog/291026/de-quoi-le-janonisme-est-il-le-nom-la-recette-pour-faire-gagner-la-gauche)
-- 2026-10-30, France. *Le Monde* (Defer and Mohammedi): LFI channel at 155,000 members (army; attested). Source: print and online article, URL not found.
+- 2026-10-30, France. *Le Monde* (Defer and Mohammedi): LFI channel at 155,000 members (army; attested). [source](https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html)
 - 2026-10-30, France. Arcom renews its representative on Viginum's ethics committee (platform; attested). [source](https://www.linforme.com/medias-culture/article/catherine-jentile-va-integrer-le-comite-d-ethique-et-scientifique-de-viginum_12935.html)
 
 ---
@@ -1499,6 +1499,6 @@ All sources cited, in order of first appearance, grouped by part. Dates in paren
 
 ### No online address found
 
-- Defer and Mohammedi, "Après le Brésil, la France ? Comment les insoumis tentent de s'inspirer du janonisme en ligne" [After Brazil, France? How the Insoumis are trying to borrow from online Janonism], *Le Monde*, Oct. 30, 2026.
+- Defer and Mohammedi, "Après le Brésil, la France ? Comment les insoumis tentent de s'inspirer du janonisme en ligne" [After Brazil, France? How the Insoumis are trying to borrow from online Janonism], *Le Monde*, Oct. 30, 2026. https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html
 - André Janones, *Janonismo cultural: o uso das redes sociais e a batalha pela democracia no Brasil* [Cultural Janonism: The Use of Social Networks and the Battle for Democracy in Brazil], Civilização Brasileira, 2023.
 - Green, Joshua, *Devil's Bargain*, Penguin, 2017.
