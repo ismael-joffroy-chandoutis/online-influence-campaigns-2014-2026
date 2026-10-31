@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Swarms, Farms and Armies">
+  <rect width="1280" height="400" fill="#F2EFE9"/>
+  <g fill="none" stroke="#C9C4BA" stroke-width="1.25">
+    <line x1="913.1" y1="114.5" x2="903.7" y2="128.3"/>
+    <line x1="903.7" y1="128.3" x2="873.8" y2="124.3"/>
+    <line x1="873.8" y1="124.3" x2="861.2" y2="100.8"/>
+    <line x1="861.2" y1="100.8" x2="887.1" y2="77.4"/>
+    <line x1="887.1" y1="77.4" x2="936.8" y2="77.5"/>
+    <line x1="936.8" y1="77.5" x2="969.0" y2="106.5"/>
+    <line x1="969.0" y1="106.5" x2="951.5" y2="143.7"/>
+    <circle cx="913.1" cy="114.5" r="2.6"/>
+    <circle cx="886.7" cy="110.5" r="2.6"/>
+    <circle cx="921.7" cy="99.1" r="2.6"/>
+    <circle cx="903.7" cy="128.3" r="2.6"/>
+    <circle cx="884.7" cy="94.0" r="2.6"/>
+    <circle cx="939.7" cy="113.1" r="2.6"/>
+    <circle cx="873.8" cy="124.3" r="2.6"/>
+    <circle cx="914.0" cy="83.8" r="2.6"/>
+    <circle cx="926.6" cy="134.8" r="2.6"/>
+    <circle cx="861.2" cy="100.8" r="2.6"/>
+    <circle cx="948.9" cy="96.7" r="2.6"/>
+    <circle cx="885.5" cy="140.7" r="2.6"/>
+    <circle cx="887.1" cy="77.4" r="2.6"/>
+    <circle cx="953.5" cy="126.8" r="2.6"/>
+    <circle cx="850.1" cy="119.5" r="2.6"/>
+    <circle cx="936.8" cy="77.5" r="2.6"/>
+    <circle cx="915.3" cy="149.3" r="2.6"/>
+    <circle cx="855.6" cy="84.9" r="2.6"/>
+    <circle cx="969.0" cy="106.5" r="2.6"/>
+    <circle cx="860.3" cy="141.8" r="2.6"/>
+    <circle cx="905.3" cy="65.6" r="2.6"/>
+    <circle cx="951.5" cy="143.7" r="2.6"/>
+    <rect x="850" y="252" width="12" height="12"/>
+    <rect x="874" y="252" width="12" height="12"/>
+    <rect x="898" y="252" width="12" height="12"/>
+    <rect x="922" y="252" width="12" height="12"/>
+    <rect x="946" y="252" width="12" height="12"/>
+    <rect x="850" y="274" width="12" height="12"/>
+    <rect x="874" y="274" width="12" height="12"/>
+    <rect x="898" y="274" width="12" height="12"/>
+    <rect x="922" y="274" width="12" height="12"/>
+    <rect x="946" y="274" width="12" height="12"/>
+    <rect x="850" y="296" width="12" height="12"/>
+    <rect x="874" y="296" width="12" height="12"/>
+    <rect x="898" y="296" width="12" height="12"/>
+    <rect x="922" y="296" width="12" height="12"/>
+    <rect x="946" y="296" width="12" height="12"/>
+    <rect x="850" y="318" width="12" height="12"/>
+    <rect x="874" y="318" width="12" height="12"/>
+    <rect x="898" y="318" width="12" height="12"/>
+    <rect x="922" y="318" width="12" height="12"/>
+    <rect x="946" y="318" width="12" height="12"/>
+    <circle cx="1040" cy="200" r="9"/>
+    <line x1="1049.0" y1="200.0" x2="1102.0" y2="200.0"/>
+    <circle cx="1102.0" cy="200.0" r="3.2"/>
+    <line x1="1047.3" y1="205.3" x2="1090.2" y2="236.4"/>
+    <circle cx="1090.2" cy="236.4" r="3.2"/>
+    <line x1="1042.8" y1="208.6" x2="1059.2" y2="259.0"/>
+    <circle cx="1059.2" cy="259.0" r="3.2"/>
+    <line x1="1037.2" y1="208.6" x2="1020.8" y2="259.0"/>
+    <circle cx="1020.8" cy="259.0" r="3.2"/>
+    <line x1="1032.7" y1="205.3" x2="989.8" y2="236.4"/>
+    <circle cx="989.8" cy="236.4" r="3.2"/>
+    <line x1="1031.0" y1="200.0" x2="978.0" y2="200.0"/>
+    <circle cx="978.0" cy="200.0" r="3.2"/>
+    <line x1="1032.7" y1="194.7" x2="989.8" y2="163.6"/>
+    <circle cx="989.8" cy="163.6" r="3.2"/>
+    <line x1="1037.2" y1="191.4" x2="1020.8" y2="141.0"/>
+    <circle cx="1020.8" cy="141.0" r="3.2"/>
+    <line x1="1042.8" y1="191.4" x2="1059.2" y2="141.0"/>
+    <circle cx="1059.2" cy="141.0" r="3.2"/>
+    <line x1="1047.3" y1="194.7" x2="1090.2" y2="163.6"/>
+    <circle cx="1090.2" cy="163.6" r="3.2"/>
+    <path d="M975 110 C 1060 110, 1120 170, 1196 200"/>
+    <path d="M970 285 C 1060 285, 1120 230, 1196 200"/>
+    <path d="M1102 200 L 1196 200" stroke-dasharray="3 5"/>
+  </g>
+  <circle cx="1196" cy="200" r="4.5" fill="#FF4400"/>
+  <text x="96" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="60" fill="#141414" text-anchor="start" letter-spacing="0.5">Swarms, Farms and Armies</text>
+  <text x="98" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="21" fill="#6E6A62" text-anchor="start" letter-spacing="0.3">Online influence campaigns, 2014-2026 · Campagnes d'influence en ligne</text>
+</svg>

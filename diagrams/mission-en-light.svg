@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 470" width="1280" height="470" role="img" aria-label="Anatomy of a “mission”">
+<rect width="1280" height="470" fill="#F2EFE9"/>
+<text x="60" y="58" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="30" fill="#141414" text-anchor="start" >Anatomy of a “mission”</text>
+<rect x="60" y="110" width="208" height="118" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<text x="76" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="19" fill="#141414" text-anchor="start" >Center</text>
+<text x="76" y="176" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >official or known team,</text>
+<text x="76" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >picks targets and timing</text>
+<line x1="272" y1="169" x2="292" y2="169" stroke="#9C978D" stroke-width="1.25"/>
+<path d="M287 164 L293 169 L287 174" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<rect x="298" y="110" width="208" height="118" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<text x="314" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="19" fill="#141414" text-anchor="start" >Channel</text>
+<text x="314" y="176" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >top-down broadcast:</text>
+<text x="314" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >WhatsApp, Telegram, Discord</text>
+<line x1="510" y1="169" x2="530" y2="169" stroke="#9C978D" stroke-width="1.25"/>
+<path d="M525 164 L531 169 L525 174" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<rect x="536" y="110" width="208" height="118" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<text x="552" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="19" fill="#141414" text-anchor="start" >Instruction</text>
+<text x="552" y="176" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >a few seconds of action:</text>
+<text x="552" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >share, comment, don't reply</text>
+<line x1="748" y1="169" x2="768" y2="169" stroke="#9C978D" stroke-width="1.25"/>
+<path d="M763 164 L769 169 L763 174" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<rect x="774" y="110" width="208" height="118" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<text x="790" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="19" fill="#141414" text-anchor="start" >Synchronization</text>
+<text x="790" y="176" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >same time for everyone,</text>
+<text x="790" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >concentration effect</text>
+<line x1="986" y1="169" x2="1006" y2="169" stroke="#9C978D" stroke-width="1.25"/>
+<path d="M1001 164 L1007 169 L1001 174" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<rect x="1012" y="110" width="208" height="118" fill="none" stroke="#9C978D" stroke-width="1.25"/>
+<text x="1028" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="19" fill="#141414" text-anchor="start" >Signal</text>
+<text x="1028" y="176" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >volume visible to</text>
+<text x="1028" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >recommendation algorithms</text>
+<circle cx="556" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="579" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="602" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="625" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="648" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="671" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="694" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="717" cy="260" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="556" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="579" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="602" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="625" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="648" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="671" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="694" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<circle cx="717" cy="280" r="4" fill="none" stroke="#9C978D"/>
+<text x="746" y="285" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="13" fill="#6E6A62" text-anchor="start" >real activists</text>
+<circle cx="1200" cy="130" r="5" fill="#FF4400"/>
+<text x="60" y="340" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="15" fill="#141414" text-anchor="start" >Symbol</text>
+<text x="150" y="340" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#6E6A62" text-anchor="start" >recognition sign outside the channel</text>
+<text x="530" y="340" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="500" font-size="15" fill="#141414" text-anchor="start" >Reward</text>
+<text x="620" y="340" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#6E6A62" text-anchor="start" >milestones, thanks, scores</text>
+<line x1="60" y1="372" x2="1220" y2="372" stroke="#C9C4BA"/>
+<text x="60" y="404" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#141414" text-anchor="start" >Authentic: real people carry out the instruction under their own names.</text>
+<text x="60" y="432" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#141414" text-anchor="start" >Becomes inauthentic: fake accounts at any step, an instruction to pose as an independent voter, a hidden center.</text>
+</svg>
